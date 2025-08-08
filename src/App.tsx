@@ -1,7 +1,7 @@
 
 import { ContentBridge } from './components/content-bridge';
 
-export function App() {
+export default function App() {
   return (
     <>
       <ContentBridge />
